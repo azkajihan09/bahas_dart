@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Belajar Dart Dasar dengan Pak Dita Fugi.
+program Wajib Militer Dart Dasar
